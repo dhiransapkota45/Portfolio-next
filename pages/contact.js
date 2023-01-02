@@ -1,4 +1,4 @@
-import Contact from "../components/contact/contact"
+import Contact from "../components/contact/Contact"
 const contact = () => {
   return (
     <div>
