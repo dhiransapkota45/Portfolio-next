@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className=" flex flex-row lg:flex-col w-full sm:px-10 lg:px-0  sm:gap-5 justify-between lg:justify-center lg:items-end py-3 ">
           {navdata.map((data) => {
             return (
-              <div className="px-3" key={data.id}>
+              <div className="px-1 sm:px-3" key={data.id}>
                 <Link href={data.path}>
                   <NavbarHover {...data} />
                 </Link>
