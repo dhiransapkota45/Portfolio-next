@@ -1,18 +1,18 @@
 const aboutcard = [
   {
-    number: "12",
+    number: "1",
     title: "Years of experience",
   },
   {
-    number: "97",
+    number: "8",
     title: "completed projects",
   },
   {
-    number: "81",
+    number: "8",
     title: "happy customers",
   },
   {
-    number: "53",
+    number: "0",
     title: "awards won",
   },
 ];
