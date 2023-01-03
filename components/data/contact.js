@@ -17,8 +17,8 @@ const contact = {
   Github: <Github />,
   Linkedin: <Linkedin />,
   Twitter: <Twitter />,
-  address: "123 Stree New York City , United States Of America 750065.",
-  mail: "steve@mail.com",
-  phone: "+216 21 184 010",
+  address: "Bharatpur-15, Dairy Chowk, Chitwan, Nepal",
+  mail: "dhiransapkota55@gmail.com",
+  phone: "+977 9863816676",
 };
 export default contact;
