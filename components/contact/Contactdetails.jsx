@@ -18,7 +18,7 @@ const Contactdetails = () => {
         <div className=' text-4xl text-primary-yellow'>{contact.mailicon}</div>
         <div className='flex flex-col gap-1'>
           <div className=''>MAIL ME</div>
-         <div className=' font-bold text-primary-yellow hover:scale-105 animation  font-Poppins text-sm'><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dhiransapkota55@example.com" target="_blank" rel="noreferrer">{contact.mail}</a></div>
+         <div className=' font-bold z-[99999] text-primary-yellow hover:scale-105 animation  font-Poppins text-sm'><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dhiransapkota55@example.com" target="_blank" rel="noreferrer">{contact.mail}</a></div>
         </div>
       </div>
 
