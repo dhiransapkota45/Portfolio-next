@@ -1,5 +1,6 @@
 import React from "react";
 import Project from "../components/project/Project";
+import Head from "next/head";
 
 const projects = () => {
   return (

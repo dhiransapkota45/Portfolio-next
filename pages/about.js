@@ -1,5 +1,6 @@
 import React from "react";
 import AboutMe from "../components/about/AboutMe";
+import Head from "next/head";
 
 const about = () => {
   return (

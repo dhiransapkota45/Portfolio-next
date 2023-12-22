@@ -1,3 +1,4 @@
+import Head from "next/head"
 import Contact from "../components/contact/Contact"
 const contact = () => {
   return (
