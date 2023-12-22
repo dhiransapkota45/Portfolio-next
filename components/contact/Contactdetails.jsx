@@ -50,22 +50,22 @@ const Contactdetails = () => {
 
       <div className="w-full text-primary-dark  dark:text-white text-2xl px-3 gap-5 py-2 flex items-center">
         <div className="w-fit z-[999999] hover:scale-110 animation">
-          <a href="https://www.facebook.com/dhiran.sapkota55/" target="_blank">
+          <a rel="noreferrer" href="https://www.facebook.com/dhiran.sapkota55/" target="_blank">
             {contact.Facebook}
           </a>
         </div>
         <div className="w-fit z-[999999] hover:scale-110 animation">
-          <a href="https://github.com/dhiransapkota45" target="_blank">
+          <a rel="noreferrer" href="https://github.com/dhiransapkota45" target="_blank">
             {contact.Github}
           </a>
         </div>
         <div className="w-fit z-[999999] hover:scale-110 animation">
-          <a href="https://www.linkedin.com/in/dhiran-sapkota-830b2b244/" target="_blank">
+          <a rel="noreferrer" href="https://www.linkedin.com/in/dhiran-sapkota-830b2b244/" target="_blank">
             {contact.Linkedin}
           </a>
         </div>
         <div className="w-fit z-[999999] hover:scale-110 animation">
-          <a href="https://twitter.com/DhiranSapkota1" target="_blank">
+          <a rel="noreferrer" href="https://twitter.com/DhiranSapkota1" target="_blank">
             {contact.Twitter}
           </a>
         </div>
